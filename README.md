@@ -6,11 +6,17 @@ This document provides an overview of the restaurant menu page available at [Res
 ## Features
 
 ![image](https://github.com/user-attachments/assets/386d4bb8-38a0-404f-b52f-521f3eda9b01)
+![image](https://github.com/user-attachments/assets/ddb5a641-f7b6-4b98-bf8c-19bf6cb08dfb)
+![image](https://github.com/user-attachments/assets/7134ddd5-18b1-45e8-a923-891e5b961a79)
+![image](https://github.com/user-attachments/assets/86bb17d6-b29f-4875-9957-1496ea2e80cf)
+
+
 
 
 ### 1. **Food Menu Display**
 
-*(Insert screenshot showcasing the menu display here)*
+![image](https://github.com/user-attachments/assets/47f776b1-0234-49ae-89ed-f129ec877d5b)
+
 - The page correctly loads and displays all menu items.
 - Each menu item includes an image, name, description, and price.
 - The menu is well-structured, allowing users to easily browse through different dishes.
@@ -18,14 +24,22 @@ This document provides an overview of the restaurant menu page available at [Res
 
 ### 2. **Category Navigation**
 
-*(Insert screenshot of category navigation in action here)*
+![image](https://github.com/user-attachments/assets/f239cd70-80ec-468d-9fbf-90c8696eb83b)
 - Users can filter items by category, making it easier to locate specific types of dishes.
 - Categories load dynamically, ensuring a smooth user experience without unnecessary page reloads.
 - Clicking on a category instantly updates the menu to show relevant items.
 
 ### 3. **Responsive Design**
+Mobile
+![image](https://github.com/user-attachments/assets/36892286-0af8-429b-a07e-1b8f14491df0) 
+![image](https://github.com/user-attachments/assets/b97fd82b-aea6-4325-9439-459d50e314ca)
 
-*(Insert screenshot of the menu on mobile and desktop views here)*
+Desktop
+![image](https://github.com/user-attachments/assets/e98eaf37-8adc-491a-8971-fd9822ede0c7)
+![image](https://github.com/user-attachments/assets/f12ded4b-1c9e-4706-a17a-d0c106cd3e4b)
+
+
+
 - The page is fully responsive on both desktop and mobile devices.
 - Images and text scale appropriately based on screen size.
 - The layout adjusts dynamically to maintain readability and usability across different screen sizes.
@@ -33,30 +47,13 @@ This document provides an overview of the restaurant menu page available at [Res
 
 ### 4. **Interactive Elements**
 
-*(Insert screenshot of an interactive element, e.g., item details popup, here)*
+![image](https://github.com/user-attachments/assets/4a7cbf86-fcf5-41d9-9195-d9d2805aae59)
+
 - Clicking on a menu item reveals more details, such as ingredients and portion sizes.
 - Smooth animations and transitions enhance user experience by making interactions more engaging.
 - The hover effects on desktop provide additional visual feedback for a more interactive feel.
 - Users can easily navigate back to the main menu without losing their selected filters.
 
-### 5. **Performance**
-
-*(Insert screenshot of performance testing results or loading speed analysis here)*
-- Page loads quickly with optimized assets, reducing wait times for users.
-- No broken links or missing images detected, ensuring a professional and polished appearance.
-- Efficient code implementation minimizes unnecessary data fetching, improving speed and responsiveness.
-- The website follows best practices for performance optimization, such as lazy loading for images and caching strategies.
-
-### 6. **User Experience Enhancements**
-
-*(Insert screenshot highlighting UX improvements such as typography and layout here)*
-- The menu items are arranged logically, ensuring easy discoverability.
-- The color scheme and typography contribute to an appealing and readable interface.
-- The contrast between text and background enhances readability for users with different accessibility needs.
-- The navigation is intuitive, ensuring users can quickly find the information they need without confusion.
-
-## Usage
-Simply visit [this link](http://restaurant.acs314flutter.xyz/#food-menu) to access the menu and explore available food items. Users can browse through categories, view item details, and enjoy a seamless, interactive experience.
 
 ## Notes
 - If any additional features are added, please update this README accordingly.
