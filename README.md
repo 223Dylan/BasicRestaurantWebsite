@@ -30,11 +30,12 @@ This document provides an overview of the restaurant menu page available at [Res
 - Clicking on a category instantly updates the menu to show relevant items.
 
 ### 3. **Responsive Design**
-Mobile
+
+
 ![image](https://github.com/user-attachments/assets/36892286-0af8-429b-a07e-1b8f14491df0) 
 ![image](https://github.com/user-attachments/assets/b97fd82b-aea6-4325-9439-459d50e314ca)
 
-Desktop
+
 ![image](https://github.com/user-attachments/assets/e98eaf37-8adc-491a-8971-fd9822ede0c7)
 ![image](https://github.com/user-attachments/assets/f12ded4b-1c9e-4706-a17a-d0c106cd3e4b)
 
